@@ -31,7 +31,7 @@ Main Menu
 <h4>Database Tables</h4>
 <p>
 <ul>
-<li>Users Table: Stores username, password, location, and credit balance</li>
+<li>Users Table: Stores username, password (Sample data only. Passwords are stored in plain text, as this is a learning project), location, and credit balance</li>
 <li>Books Table: List of books </li>
 <li>Transactions Table: Shows exchanges between buyers and sellers</li>
 </ul>
